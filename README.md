@@ -1,0 +1,2 @@
+# Malak-Abdalmaksoud-501032242-_TermProject-for-machine-Learning-for-engineers
+This is my final project for machine learning for engineers course( EE8230 701E), the dataset used is abalone dataset from UC Irvine Machine Learning Repository, and the target was Sex of abalone. The target was classified using the following features: Height, Length, Whole weight, Shucked weight, Viscera weight, Shell weight, and Rings.  
